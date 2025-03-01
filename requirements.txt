@@ -1,0 +1,11 @@
+numpy==1.19.5
+tensorflow==1.5.0
+gpflow==1.1.1
+torch==1.10.2
+botorch==0.2.1
+pygame==2.5.2
+xgboost==1.5.2
+swig==4.1.1
+Box2D==2.3.10
+py-pde==0.13.3
+
