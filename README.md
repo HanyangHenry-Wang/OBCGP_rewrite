@@ -2,7 +2,7 @@ This is the code for the paper Objective Bound Conditional Gaussian Process for 
 
 Here is how to use this package:
 ```bash
-git clone https://github.com/HanyangHenry-Wang/OBCGP.git && cd OBCGP
+git clone https://github.com/HanyangHenry-Wang/OBCGP_rewrite.git && cd OBCGP_rewrite
 conda create --name OBCGP-env python=3.6 -y
 conda activate OBCGP-env
 pip install -r requirements.txt 
